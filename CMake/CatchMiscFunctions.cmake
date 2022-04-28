@@ -71,7 +71,6 @@ function(add_warnings_to_targets targets)
           "-Wunused"
           "-Wunused-function"
           "-Wunused-parameter"
-          "-Wuseless-cast"
           "-Wvla"
           "-Wweak-vtables"
         )
